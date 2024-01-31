@@ -6,5 +6,5 @@
 ---
 
 <div align="left">
-  <img src="https://github.com/Polychh/SparCard/blob/main/SparCard.jpg" width="350" height="600"/>
+  <img src="https://github.com/Polychh/SparCard/blob/main/SparCard.png" width="350" height="600"/>
 </div>
