@@ -32,6 +32,7 @@
 		36A826FC2B69832F005E1B16 /* CustomNavBarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A826FB2B69832F005E1B16 /* CustomNavBarView.swift */; };
 		36A827082B69A159005E1B16 /* ConstMain.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A827072B69A159005E1B16 /* ConstMain.swift */; };
 		36A8270A2B6A1332005E1B16 /* CustomNavBarContainerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36A827092B6A1332005E1B16 /* CustomNavBarContainerView.swift */; };
+		36FFBAE32B6E906D003A0391 /* ButtonDescript.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FFBAE22B6E906D003A0391 /* ButtonDescript.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -61,6 +62,7 @@
 		36A826FB2B69832F005E1B16 /* CustomNavBarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavBarView.swift; sourceTree = "<group>"; };
 		36A827072B69A159005E1B16 /* ConstMain.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstMain.swift; sourceTree = "<group>"; };
 		36A827092B6A1332005E1B16 /* CustomNavBarContainerView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomNavBarContainerView.swift; sourceTree = "<group>"; };
+		36FFBAE22B6E906D003A0391 /* ButtonDescript.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonDescript.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -197,6 +199,7 @@
 				36A826E22B692FBE005E1B16 /* Description.swift */,
 				36A826E72B6939E8005E1B16 /* CompositionsStack.swift */,
 				36A826E52B693598005E1B16 /* ProductСompositionStack.swift */,
+				36FFBAE22B6E906D003A0391 /* ButtonDescript.swift */,
 			);
 			path = DescriptionBlock;
 			sourceTree = "<group>";
@@ -297,6 +300,7 @@
 				36A8270A2B6A1332005E1B16 /* CustomNavBarContainerView.swift in Sources */,
 				36A826EA2B6952BA005E1B16 /* ReviewCard.swift in Sources */,
 				36A826C82B690908005E1B16 /* SparCardApp.swift in Sources */,
+				36FFBAE32B6E906D003A0391 /* ButtonDescript.swift in Sources */,
 				36A826E12B691CF6005E1B16 /* SalePath.swift in Sources */,
 				36A826D92B69128F005E1B16 /* MarkStack.swift in Sources */,
 				36A826F62B697ACF005E1B16 /* Catalog.swift in Sources */,

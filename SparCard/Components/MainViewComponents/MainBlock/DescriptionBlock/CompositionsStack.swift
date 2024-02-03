@@ -16,10 +16,15 @@ struct CompositionsStack: View {
             ProductCompositionStack(text1: ConstMain.composName4, text2: ConstMain.composDesc4)
             ProductCompositionStack(text1: ConstMain.composName5, text2: ConstMain.composDesc5)
                 .padding(.bottom, 8)
-            Text(ConstMain.allCompose)
-                .foregroundColor(.green)
-                .font(.body)
-                .fontWeight(.semibold)
+            Button(action: {
+                print("allCompose button tapped")
+            }) {
+                ButtonDescript(name: ConstMain.allCompose)
+            }
+//            Text(ConstMain.allCompose)
+//                .foregroundColor(.green)
+//                .font(.body)
+//                .fontWeight(.semibold)
         }
         .padding(.bottom, 32)
         HStack(){
@@ -28,10 +33,15 @@ struct CompositionsStack: View {
                 .font(.title2)
                 .fontWeight(.bold)
             Spacer()
-            Text(ConstMain.reviewAll)
-                .foregroundColor(.green)
-                .font(.body)
-                .fontWeight(.semibold)
+            Button(action: {
+                print("reviewAll button tapped")
+            }) {
+                ButtonDescript(name: ConstMain.reviewAll)
+            }
+//            Text(ConstMain.reviewAll)
+//                .foregroundColor(.green)
+//                .font(.body)
+//                .fontWeight(.semibold)
         }
     }
 }
