@@ -37,4 +37,6 @@ struct ContentView: View {
         .accentColor(.green)
     }
 }
-
+#Preview {
+    ContentView()
+}
